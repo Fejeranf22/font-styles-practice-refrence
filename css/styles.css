@@ -9,7 +9,10 @@
  }
 
  h1 {
-   font-family: georgia;
+   /*font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Indie Flower', cursive;*/
+font-family: 'Saira Extra Condensed', sans-serif;
+   /*font-family: georgia;*/
  }
 
  /*font size*/
@@ -47,11 +50,17 @@ h1 {
 }
 /*my styles*/
 .para1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+/*font-family: 'Indie Flower', cursive;
+font-family: 'Saira Extra Condensed', sans-serif;*/
   font-weight: 100;
 }
 .para2{
   font-family: times;
 }
 span {
+  /*font-family: 'Open Sans Condensed', sans-serif;*/
+font-family: 'Indie Flower', cursive;
+/*font-family: 'Saira Extra Condensed', sans-serif;*/
   font-family: cursive;
 }
